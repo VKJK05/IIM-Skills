@@ -2,15 +2,22 @@
 ## Oct 16
 ### Format
 
-** Bold
-* italicized text
+** Bold **
+* italicized text *
 
-`IWXUYL`
+Code `IWXUYL`
 
+Ordered List
+1. First item
+2. Second item
+3. Third item
 
+unordered List
+- First item
+- Second item
+- Third item
 
 [title] https://github.com/VKJK05/IIM-Skills/edit/main/apidocument.md
-
 
 |Sl No| Date | Time |
 |-----|------|------|
@@ -22,4 +29,7 @@
 
 
 
-[^1]: This is the footnote.
+
+Footnote
+References [^1]
+[^1]: Check Google
