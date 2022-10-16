@@ -26,9 +26,7 @@ unordered List
 }
 ```
 
-[title] https://github.com/VKJK05/IIM-Skills/edit/main/apidocument.md
-
-|Sl No| Date | Time |
+|Sl No.| Date | Time |
 |-----|------|------|
 | 1   | 16 Oct 2022| 12:10 PM|
 
@@ -39,7 +37,7 @@ Tasks
 
 I am done :+1:
 
-X^4^
+[title] https://github.com/VKJK05/IIM-Skills/edit/main/apidocument.md
 
 ![alt text] ![image]
 (https://user-images.githubusercontent.com/115916421/196022285-22d8a61e-7f3d-4fc3-aec0-d02ca3987da6.png)
@@ -47,6 +45,8 @@ X^4^
 ~~Strikeout~~
 
 CO~2~
+
+X^4^
 
 Footnote
 References [^1]
