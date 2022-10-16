@@ -2,8 +2,9 @@
 ## Oct 16
 ### Format
 
-** Bold **
-* italicized text *
+I Like **Bold Text**
+
+I like *italicized text*
 
 > Code `IWXUYL`
 
